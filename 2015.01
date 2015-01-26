@@ -19,7 +19,7 @@
 5.	Spring的xml中配置bean属性scope=”prototype”是什么意思？
 6.	数据结构如下：有几种类型的数据，每种下有3-10条数据；操作：经常要对某个种类下的数据进行人为排序然后遍历输出，请问数据库中怎么存才最合理？
 
-瓷肌（Offer）
+瓷肌-唯一优品（Offer）
 1.	用过哪些Java的集合类，介绍下ArrayList和LinkedList的区别？
 2.	HashMap的实现方式。ConcurrentHashMap的实现方式，和HashMap的区别，HashTable的区别。
 3.	Java序列化id是干嘛用的？
